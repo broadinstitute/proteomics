@@ -1,0 +1,5 @@
+Add .gitignore file:
+### Example contents
+.DS_Store
+*~
+#####
