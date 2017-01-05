@@ -1,0 +1,6 @@
+[submodule "R-utilities"]
+	path = R-utilities
+	url = https://github.com/broadinstitute/proteomics-Rutil.git
+[submodule "cptac"]
+	path = cptac
+	url = https://github.com/broadinstitute/proteomics-cptac.git
