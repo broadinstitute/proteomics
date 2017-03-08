@@ -4,3 +4,6 @@
 [submodule "cptac"]
 	path = cptac
 	url = https://github.com/broadinstitute/proteomics-cptac.git
+[submodule "PGDAC"]
+	path = PGDAC
+	url = https://github.com/broadinstitute/PGDAC.git
